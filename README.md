@@ -146,16 +146,13 @@ Data preview<br>
 ![](./images/heatmap.png)<br>
 
 >**Insight**
-> 1. 소득(Income)은 지출금액(Mnt)항목, 대부분의<br> 구매횟수(Num)와 양의 상관관계이다.<br><br>
-> 2. 양육하는 아이의 수(Child)는 지출금액(Mnt)항목,<br>
-구매횟수(Num)와 음의 상관관계이다.<br><br>
+> 1. 소득(Income)은 지출금액(Mnt)항목, 대부분의 구매횟수(Num)와 양의 상관관계이다.<br><br>
+> 2. 양육하는 아이의 수(Child)는 지출금액(Mnt)항목, 구매횟수(Num)와 음의 상관관계이다.<br><br>
 > 3. 1,2번 사례와 반대로, 할인율을 적용하여 구매한 횟수
-(Num Deals Purchases)는 자녀수(Child)와 양의상관관계, 소득(Income)과 음의상관관계이다.<br><br>
-> 4. 전체적 마케팅 응답사례(Tot_Campaign)는 소득(Income)과 약한 양의 상관관계였으나, 양육하는 아이(Child)와는<br>
-약한 부정적상관관계이다.<br><br>
+(Num Deals Purchases)는 자녀수(Child)와<br> 양의상관관계, 소득(Income)과 음의상관관계이다.<br><br>
+> 4. 전체적 마케팅 응답사례(Tot_Campaign)는 소득(Income)과 약한 양의 상관관계였으나, <br>양육하는 아이(Child)와는 약한 부정적상관관계이다.<br><br>
 > 5. 한달 웹 방문횟수(NumWebVisitsMonth)와 웹에서 실제로 구매한 횟수(NumWebPurchases)는 상관이 없다.<br><br>
-> 6. 한달 웹 방문횟수(NumWebVisitsMonth)와 할인율을 <br>
-적용하여 구매가 이뤄진 횟수(NumDeals Purchases)는<br>
+> 6. 한달 웹 방문횟수(NumWebVisitsMonth)와 할인율을 적용하여 구매가 이뤄진 횟수(NumDeals Purchases)는<br>
 양의 상관관계이다.
 
 <br>
@@ -201,13 +198,12 @@ Data preview<br>
 <br>
 <br>
 
-2.2 분석에서 아이를 양육중인 고객은 소극적인 소비양상을<br>
-보였으나 할인제품 소비 횟수 만큼은 증가 하였는데<br>
-할인상품 구매와 양의 상관관계에 있는 웹 방문 횟수도<br>
-증가하였는가?
+2.2 분석에서 아이를 양육중인 고객은 소극적인 소비양상을 보였으나<br>
+할인제품 소비 횟수 만큼은 증가 하였는데<br>
+할인상품 구매와 양의 상관관계에 있는 웹 방문 횟수도 증가하였는가?
 ![](./images/about_child_webvisit.png)<br>
 **- 양육중인 아이가 많을수록 웹 방문 횟수도 증가했다.**<br>
-(아이를 양육중인 고객은 할인제품 구매횟수가 증가하고, <br>이와 양의 상관관계에 있는 웹 방문횟수도 증가 하였기에,<br> 
+(아이를 양육중인 고객은 할인제품 구매횟수가 증가하고, 이와 양의 상관관계에 있는 웹 방문횟수도 증가 하였기에,<br> 
 웹을 통해 할인제품을 홍보·구매할 수 있음을 추측)
 <br>
 
