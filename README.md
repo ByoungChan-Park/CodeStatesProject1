@@ -309,3 +309,4 @@ Data preview<br>
 ![](./images/actionplan.png)<br>
 －전 소득분위에서 반응이 좋았던 Cmp3와 Cmp4를 전개하되, 고소득층에겐 Cmp1과 Cmp5를 전개<br>
 －아이를 양육중인 고객의 구매를 독려하기 위해 신설 캠페인을 전개
+
